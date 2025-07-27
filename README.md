@@ -26,4 +26,4 @@
   </dd>
 </dl>
 
-# Play Now : https://sohelansari08.github.io/Weather-App/
+# Play Now : https://sohelansari08.github.io/TicTacToe-Game/
